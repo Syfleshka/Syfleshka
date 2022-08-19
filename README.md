@@ -4,7 +4,7 @@ My name is Alexandr Denisov and I'm just a newbie frontend developer.
 
 ## Stack
 
-### 🌱 Dev stack:
+### Dev stack:
 
 * HTML + CSS - Middle
 * JS - Junior+
@@ -15,13 +15,13 @@ My name is Alexandr Denisov and I'm just a newbie frontend developer.
 I know how to work with:
 Forms, API, how to build good adaptive pages/
 
-### 🐣 Additional stack:
+### Additional stack:
 
 * SQL - I know how to SELECT
 * PHP - Can read and slightly fix code
 * Python - scripts
 
-### 🐥 Other stack
+### Other stack
 
 * Figma (design, prototyping) - Middle
 * Project managment - Middle
