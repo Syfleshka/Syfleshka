@@ -15,13 +15,13 @@ My name is Alexandr Denisov and I'm just a newbie frontend developer.
 I know how to work with:
 Forms, API, how to build good adaptive pages/
 
-### :hatching_chick: Additional stack:
+### 🐣 Additional stack:
 
 * SQL - I know how to SELECT
 * PHP - Can read and slightly fix code
 * Python - scripts
 
-### :hatched_chick: Other stack
+### 🐥 Other stack
 
 * Figma (design, prototyping) - Middle
 * Project managment - Middle
