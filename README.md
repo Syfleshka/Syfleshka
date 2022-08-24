@@ -12,6 +12,8 @@ My name is Alexandr Denisov and I'm just a newbie frontend developer.
 * React - Junior
 * Redux - Junior
 
+My codewars: https://www.codewars.com/users/Syfleshka
+
 I know how to work with:
 
 SPA, Forms, API, adaptive pages
