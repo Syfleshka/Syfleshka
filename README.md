@@ -6,14 +6,15 @@ My name is Alexandr Denisov and I'm just a newbie frontend developer.
 
 ### Dev stack:
 
-* HTML + CSS - Middle
+* HTML + CSS (SCSS) - Middle
 * JS - Junior+
 * TS - Junior
 * React - Junior
 * Redux - Junior
 
 I know how to work with:
-Forms, API, how to build good adaptive pages/
+
+SPA, Forms, API, adaptive pages
 
 ### Additional stack:
 
@@ -38,7 +39,7 @@ Forms, API, how to build good adaptive pages/
 
 ## Last work
 
-4 years in ICNX agency. Started from Account manager, current position: Project manager
+4 years in [ICNX agency](https://icnx.ru/). Started from Account manager, current position: Project manager
 
 Current daily routine:
 
@@ -48,7 +49,7 @@ Current daily routine:
 * E-mail design and coding
 * Database analysis
 
-Pool of clients: big transnational brands
+Pool of clients: big international brands
 
 
 
