@@ -41,7 +41,7 @@ SPA, Forms, API, adaptive pages
 
 ## Current work
 
-4 years in [ICNX agency](https://icnx.ru/). Started from Account manager, current position: Project manager
+4 years in [ICNX CRM agency](https://icnx.ru/). Started from Account manager, current position: Project manager
 
 Current daily routine:
 
