@@ -39,7 +39,7 @@ SPA, Forms, API, adaptive pages
 * English - B1
 * German - A1
 
-## Last work
+## Current work
 
 4 years in [ICNX agency](https://icnx.ru/). Started from Account manager, current position: Project manager
 
