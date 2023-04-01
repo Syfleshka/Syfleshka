@@ -6,7 +6,7 @@ My name is Alexandr Denisov and I'm a frontend developer.
 
 ### Dev stack:
 
-* HTML + CSS (SCSS) - Senior
+* HTML + CSS (SCSS) - Middle+
 * JS - Middle
 * TS - Junior+
 * React - Junior
