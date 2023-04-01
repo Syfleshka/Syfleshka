@@ -1,14 +1,14 @@
 # 👋 Hello
 
-My name is Alexandr Denisov and I'm just a newbie frontend developer.
+My name is Alexandr Denisov and I'm a frontend developer.
 
 ## Stack
 
 ### Dev stack:
 
-* HTML + CSS (SCSS) - Middle
-* JS - Junior+
-* TS - Junior
+* HTML + CSS (SCSS) - Senior
+* JS - Middle
+* TS - Junior+
 * React - Junior
 * Redux - Junior
 
@@ -20,13 +20,13 @@ SPA, Forms, API, adaptive pages
 
 ### Additional stack:
 
-* SQL - I know how to SELECT
-* PHP - Can read and slightly fix code
-* Python - scripts
+* SQL - Junior
+* PHP - Junior+
+* Python - Trainee
 
 ### Other stack
 
-* Figma (design, prototyping) - Middle
+* Figma (design, prototyping) - Middle+
 * Project managment - Middle
 * E-mail marketing - Middle+
 * E-mail coding - Senior
@@ -41,12 +41,12 @@ SPA, Forms, API, adaptive pages
 
 ## Current work
 
-4 years in [ICNX CRM agency](https://icnx.ru/). Started from Account manager, current position: Project manager
+4.5 years in [ICNX CRM agency](https://icnx.ru/). Started from Account manager, current position: Project manager / Developer
 
 Current daily routine:
 
-* Project management (task management, planning, communications with specialists, communications with subcontractors)
 * Landing design and coding
+* Project management (task management, planning, communications with specialists, communications with subcontractors)
 * E-mail marketing (e-mail campaigns management)
 * E-mail design and coding
 * Database analysis
