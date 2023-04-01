@@ -1,6 +1,6 @@
 # 👋 Hello
 
-My name is Alexandr Denisov and I'm a frontend developer.
+# My name is Alexandr Denisov and I'm a frontend developer.
 
 ## Stack
 
